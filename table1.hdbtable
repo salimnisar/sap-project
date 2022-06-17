@@ -1,0 +1,5 @@
+COLUMN TABLE "table1" (
+    "entry1" INTEGER,
+    "entry2" NVARCHAR(34),
+    "entry3" INTEGER
+    )
